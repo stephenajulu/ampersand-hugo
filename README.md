@@ -2,27 +2,12 @@
 
 This is a [Hugo](https://gohugo.io) theme using Git as a CMS. It was created with [Stackbit](https://www.stackbit.com?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) in under a minute.
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-hugo&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes)
+This theme is deprecated and will no longer be maintained by Stackbit. 
+Stackbit launched a new major version that brings a superior developer experience and visual editing capabilities.
 
-You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/ampersand-hugo&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) from this theme, or explore some variations. How about a different:
+Click the button below to create a new website using the new version of Stackbit.
 
-<details>
-        <summary>⚙️ &nbsp;<strong>Static site generator</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&ssg=gatsby&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Gatsby</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&ssg=nextjs&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Next.js</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&ssg=jekyll&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Jekyll</a></li>
-                </ul>
-</details>
-
-<details>
-        <summary>✏️ &nbsp;<strong>CMS</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&cms=sanity&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Sanity</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&cms=datocms&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Dato CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-ampersand&cms=contentful&utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">Contentful</a></li>
-                </ul>
-</details>
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes)
 
 ## Contributing
 
